@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 921ee6c6eb89dfc46b2c7e434a79389d
+  - enabled: 1
+    path: Assets/Scenes/Bikes.unity
+    guid: fad46e25d2c7770469d9c1a1a193bea8
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Tracks.unity
+    guid: bcaa95d58e27f004aae821f1ad6feb07
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Campestre.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: c1b9ca2d2d3d18e4b9d0da182863fc19, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 75628f1ba2a03544fac2e7a9ed3d4d37, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 956dc8ceea8d59b4db04302d301e7340, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 8ba99e238d43c6543a700d745ad17ec1, type: 2}
+  m_UseUCBPForAssetBundles: 0

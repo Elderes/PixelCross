@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ce84fb7da5b1264a9d80d41455e8683, type: 3}
+  m_Name: BikesDB
+  m_EditorClassIdentifier: 
+  bikePrefabsDB:
+  - {fileID: 8777580010268940283, guid: 4218b61d49ba8bb488d12d9c4b720c4d, type: 3}
+  - {fileID: 5434668902507625464, guid: e63337a83faf28f46a8ab634245e4490, type: 3}
